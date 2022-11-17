@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b0d38e9f3202e55cce471fb397074a1b2f3d929f599800ca56869a103de47902
-size 319
+The quickest way to get started with express is to utilize the executable express(1) to generate an application as shown below:
+
+Install the executable. The executable's major version will match Express's:
+
+Install dependencies:
+
+$ npm install
+Start the server:
+
+$ npm start
+View the server at: http://localhost:3000
